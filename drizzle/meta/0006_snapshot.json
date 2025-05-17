@@ -1,0 +1,134 @@
+{
+  "id": "10c43be1-aee4-45f2-b56d-d1d1e2335b2e",
+  "prevId": "841935ea-8907-4998-8953-daf1461b9d0d",
+  "version": "6",
+  "dialect": "postgresql",
+  "tables": {
+    "public.next-krecdlahospicjum_post": {
+      "name": "next-krecdlahospicjum_post",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "serial",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "number": {
+          "name": "number",
+          "type": "serial",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "uuid": {
+          "name": "uuid",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "firstName": {
+          "name": "firstName",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "lastName": {
+          "name": "lastName",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "email": {
+          "name": "email",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "email2": {
+          "name": "email2",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "birthDate": {
+          "name": "birthDate",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "distance": {
+          "name": "distance",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "consent": {
+          "name": "consent",
+          "type": "boolean",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "consent2": {
+          "name": "consent2",
+          "type": "boolean",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "consent3": {
+          "name": "consent3",
+          "type": "boolean",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "consent4": {
+          "name": "consent4",
+          "type": "boolean",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "photo1": {
+          "name": "photo1",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "photo2": {
+          "name": "photo2",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "startingNumber": {
+          "name": "startingNumber",
+          "type": "varchar(256)",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "created_at": {
+          "name": "created_at",
+          "type": "timestamp with time zone",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "CURRENT_TIMESTAMP"
+        },
+        "updatedAt": {
+          "name": "updatedAt",
+          "type": "timestamp with time zone",
+          "primaryKey": false,
+          "notNull": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    }
+  },
+  "enums": {},
+  "schemas": {},
+  "_meta": {
+    "columns": {},
+    "schemas": {},
+    "tables": {}
+  }
+}

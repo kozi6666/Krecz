@@ -1,0 +1,111 @@
+{
+  "Nav": {
+    "title1": "Tritt in die Pedale für das Hospiz 2025",
+    "title2": "Steig aufs Rad und hilf mit!",
+    "desc": "Möchtest du Radfahren mit Hilfe für Bedürftige verbinden? Mach mit bei der Wohltätigkeitsaktion des Forum Koszalin und hilf uns, einen neuen Rekord aufzustellen!",
+    "nav1": "Über die Aktion",
+    "nav2": "So nimmst du teil",
+    "nav3": "FAQ",
+    "nav4": "Registrieren"
+  },
+  "Main": {
+    "title1": "Geführte",
+    "title2": "Radtouren",
+    "btn": "Ich will mitradeln!"
+  },
+  "About": {
+    "title1": "Über die Aktion 'Tritt in die Pedale für das Hospiz'",
+    "title2": "Wert der gefahrenen Kilometer:",
+    "title3": "Jeder Kilometer zählt!",
+    "content1": "Bereits zum fünften Mal starten wir im Rahmen der Kampagne #FahrräderImForum eine wohltätige Fahrradaktion.",
+    "span1": "Worum geht es bei der Aktion?",
+    "content2": "Du steigst aufs Rad und zeichnest deine Kilometer mit einer beliebigen App auf. Für jede zurückgelegte Strecke spendet das Forum Koszalin einen bestimmten Betrag an das Hospiz des hl. Maximilian Kolbe in Koszalin.",
+    "content3": "Mach mit bei uns",
+    "span2": "vom 22. bis 29. Mai.",
+    "content4": "Du musst nirgendwohin fahren oder sogar ein eigenes Fahrrad besitzen – du kannst die Kilometer auch auf einem stationären Fahrrad zurücklegen! Partner der Aktion ist das Zdrofit-Studio im Forum Koszalin, das den Teilnehmern stationäre Fahrräder zur Verfügung stellt. So kannst du ebenfalls Kilometer sammeln, die helfen!"
+  },
+  "Howjoin": {
+    "title1": "So nimmst du teil",
+    "content1": "Folge ein paar einfachen Schritten, um an der Aktion teilzunehmen.",
+    "var1": "Registriere dich",
+    "desc1": "Fülle das Registrierungsformular auf unserer Website aus und lade deine Startnummer herunter.",
+    "var2": "Steig aufs Fahrrad",
+    "desc2": "Wähle ein Fahrrad (stationär oder traditionell) und beginne deine Strecke.",
+    "var3": "Lade dein Ergebnis hoch",
+    "desc3": "Sende dein Ergebnis und die Bestätigung über unsere Website. Deine Kilometer werden in Zloty umgerechnet!",
+    "title2": "Teilnahmebedingungen",
+    "li1": "Fahre die Strecke individuell",
+    "li2": "Du kannst einmal pro Tag an der Aktion teilnehmen",
+    "li3": "Bewältige die Strecke vollständig an einem Termin",
+    "li4": "Miss deine Distanz selbstständig",
+    "li5": "Lade das Ergebnis und die Bestätigung auf unsere Website hoch",
+    "record": "Rekorde der vorherigen Ausgabe",
+    "record1": "PLN gesammelte Mittel",
+    "record2": "gefahrene Kilometer",
+    "record3": "aktive Teilnehmer",
+    "cta1": "Werden wir dieses Jahr auch den Rekord brechen?",
+    "cta2": "Mach es mit uns möglich!"
+  },
+  "Gallery": {
+    "title": "Galerie",
+    "desc": "Sieh dir an, wie die vorherigen Ausgaben aussahen. Auch du kannst dieses Jahr so helfen!"
+  },
+  "Faq": {
+    "title": "Häufig gestellte Fragen",
+    "desc": "Finde Antworten auf die häufigsten Fragen!",
+    "items": [
+      {
+        "question": "Kann ich an der Aktion teilnehmen, wenn ich kein erfahrener Radfahrer bin?",
+        "answer": "Ja, die Aktion steht allen offen, unabhängig vom Erfahrungsniveau. Du kannst jede Distanz fahren, die für dich angenehm ist. Jeder Kilometer zählt und unterstützt einen guten Zweck!"
+      },
+      {
+        "question": "Kann ich mehrmals an der Aktion teilnehmen?",
+        "answer": "Du kannst an jedem Tag der Aktion teilnehmen, aber nur einmal pro Tag. Die Aktion läuft vom 22. bis 29. Mai 2025."
+      },
+      {
+        "question": "Kann ich ein stationäres Fahrrad verwenden?",
+        "answer": "Ja, du kannst sowohl ein traditionelles als auch ein stationäres Fahrrad verwenden. Partner der Aktion ist das Zdrofit-Studio im Forum Koszalin, das den Teilnehmern stationäre Fahrräder zur Verfügung stellt."
+      },
+      {
+        "question": "Wie dokumentiere ich die zurückgelegte Strecke?",
+        "answer": "Du kannst jede App zur Verfolgung körperlicher Aktivitäten verwenden, wie Strava, Garmin Connect, Nike Run Club und viele andere. Nach der Fahrt mach einen Screenshot, der die zurückgelegte Strecke und die Zeit zeigt, und sende ihn über das Formular auf unserer Website."
+      },
+      {
+        "question": "Muss ich die gesamte Strecke auf einmal zurücklegen?",
+        "answer": "Ja, die Strecke muss vollständig an einem Termin ohne Unterbrechungen zurückgelegt werden."
+      },
+      {
+        "question": "Was, wenn ich keine App zur Verfolgung von Aktivitäten habe?",
+        "answer": "Es gibt viele kostenlose Apps, die du auf dein Smartphone herunterladen kannst. Beispiele sind: Adidas Running by Runtastic, Decathlon Coach, Nike Run Club, Strava und viele andere."
+      }
+    ]
+  },
+  "Form": {
+    "title": "Registriere dich",
+    "title2": "für die nächste Tour",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "birthDate": "Geburtsdatum",
+    "consent": "Ich erkläre, dass ich die Informationen zur Verarbeitung personenbezogener Daten gelesen habe",
+    "terms1": "Ich akzeptiere",
+    "terms2": "die Geschäftsbedingungen",
+    "terms3": "",
+    "btn": "Formular absenden",
+    "required": "*Pflichtfelder",
+    "success": "Vielen Dank für deine Registrierung und willkommen zur geführten Tour. Die Startbestätigung erhältst du per E-Mail.",
+    "error1": "Etwas ist schiefgelaufen!",
+    "error2": "Leider wurde deine Anmeldung nicht gesendet. Versuche es erneut oder kontaktiere uns.",
+    "radioDate": "Wähle das Datum der Tour",
+    "firstNameRequired": "Vorname ist erforderlich.",
+    "lastNameRequired": "Nachname ist erforderlich.",
+    "emailRequired": "E-Mail-Adresse ist erforderlich.",
+    "tripRequired": "Dieses Feld ist erforderlich.",
+    "emailCustom": "E-Mail-Adresse ist ungültig.",
+    "birthDateRequired": "Geburtsdatum ist erforderlich.",
+    "dayCustom": "Der Tag ist ungültig.",
+    "monthCustom": "Der Monat ist ungültig.",
+    "yearCustom": "Das Jahr ist ungültig.",
+    "consentRequired": "Du musst die Informationen zur Verarbeitung personenbezogener Daten akzeptieren.",
+    "consent2Required": "Du musst die Geschäftsbedingungen akzeptieren."
+  }
+}

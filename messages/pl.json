@@ -1,0 +1,111 @@
+{
+  "Nav": {
+    "title1": "Kręć dla Hospicjum 2025",
+    "title2": "Wskocz na rower i pomagaj!",
+    "desc": "Chcesz połączyć jazdę na rowerze z pomocą potrzebującym? Dołącz do akcji charytatywnej Forum Koszalin. I pobij z nami rekord!",
+    "nav1": "O akcji",
+    "nav2": "Jak wziąć udział",
+    "nav3": "FAQ",
+    "nav4": "Zarejestruj się"
+  },
+  "Main": {
+    "title1": "Wycieczki",
+    "title2": "z przewodnikiem",
+    "btn": "Chcę kręcić!"
+  },
+  "About": {
+    "title1": "O akcji Kręć dla Hospicjum",
+    "title2": "Wartość przejechanych kilometrów:",
+    "title3": "Liczy się każdy dystans!",
+    "content1": "To już po raz piąty w ramach kampanii #RoweryNaForum startujemy z rowerową akcją charytatywną.",
+    "span1": "Na czym polega akcja?",
+    "content2": "Wskakujesz na rower i zliczasz kilometry w dowolnej aplikacji. Za każdy pokonany dystans Forum Koszalin przeznaczy określoną kwotę na rzecz Hospicjum im. św. Maksymiliana Kolbego w Koszalinie.",
+    "content3": "Dołącz do nas",
+    "span2": "od 22 do 29 maja.",
+    "content4": "Nie musisz nigdzie jechać ani nawet mieć własnego roweru - możesz wykręcić kilometry na rowerze stacjonarnym! Partnerem akcji jest klub Zdrofit w Forum Koszalin, który udostępnia uczestnikom rowery stacjonarne. W ten sposób również można nabijać kilometry, które niosą pomoc!"
+  },
+  "Howjoin": {
+    "title1": "Jak wziąć udział",
+    "content1": "Wykonaj kilka prostych kroków, aby wziąć udział w akcji.",
+    "var1": "Zarejestruj się",
+    "desc1": "Wypełnij formularz rejestracyjny na naszej stronie i pobierz swój numer startowy.",
+    "var2": "Wsiądź na rower",
+    "desc2": "Wybierz rower (stacjonarny lub tradycyjny) i zacznij swoją trasę",
+    "var3": "Wgraj swój wynik",
+    "desc3": "Prześlij swój wynik i potwierdzenie na naszą stronę. Twoje kilometry zostaną przeliczone na złotówki!",
+    "title2": "Warunki udziału w akcji",
+    "li1": "Trasę pokonaj indywidualnie",
+    "li2": "W akcji możesz wziąć udział tylko raz dziennie",
+    "li3": "Pokonaj trasę w całości w jednym terminie",
+    "li4": "Samodzielnie zmierz swój dystans",
+    "li5": "Uzyskany wynik i potwierdzenie wgraj na naszą stronę",
+    "record": "Rekordy poprzedniej edycji",
+    "record1": "zł zebranych środków",
+    "record2": "przejechanych kilometrów",
+    "record3": "aktywnych uczestników",
+    "cta1": "Czy w tym roku też pobijemy rekord?",
+    "cta2": "Dokonaj tego z nami!"
+  },
+  "Gallery": {
+    "title": "Galeria",
+    "desc": "Zobacz, jak wyglądały poprzednie edycje. Ty też możesz tak pomagać w tym roku!"
+  },
+  "Faq": {
+    "title": "Najczęściej zadawane pytania",
+    "desc": "Sprawdź odpowiedzi na najczęściej zadawane pytania!",
+    "items": [
+      {
+        "question": "Czy mogę wziąć udział w akcji, jeśli nie jestem doświadczonym rowerzystą?",
+        "answer": "Tak, akcja jest otwarta dla wszystkich, niezależnie od poziomu zaawansowania. Możesz pokonać dowolny dystans, który jest dla Ciebie komfortowy. Każdy kilometr się liczy i wspiera szczytny cel!"
+      },
+      {
+        "question": "Czy mogę wziąć udział w akcji kilka razy?",
+        "answer": "Możesz wziąć udział w akcji w każdym dniu jej trwania, ale tylko raz dziennie. Akcja trwa od 22 do 29 maja 2025 roku."
+      },
+      {
+        "question": "Czy mogę użyć roweru stacjonarnego?",
+        "answer": "Tak, możesz użyć zarówno roweru tradycyjnego, jak i stacjonarnego. Partnerem akcji jest klub Zdrofit w Forum Koszalin, który udostępnia uczestnikom rowery stacjonarne."
+      },
+      {
+        "question": "Jak mam udokumentować pokonany dystans?",
+        "answer": "Możesz użyć dowolnej aplikacji do śledzenia aktywności fizycznej, takiej jak Strava, Garmin Connect, Nike Run Club i wiele innych. Po zakończeniu jazdy zrób zrzut ekranu pokazujący pokonany dystans i czas, a następnie prześlij go przez formularz na naszej stronie."
+      },
+      {
+        "question": "Czy muszę pokonać cały dystans za jednym razem?",
+        "answer": "Tak, trasa musi zostać pokonana w całości w jednym terminie, bez przerw."
+      },
+      {
+        "question": "Co jeśli nie mam aplikacji do śledzenia aktywności?",
+        "answer": "Istnieje wiele darmowych aplikacji, które możesz pobrać na swój smartfon. Przykładowe aplikacje to: Adidas Running by Runtastic, Decathlon Coach, Nike Run Club, Strava i wiele innych."
+      }
+    ]
+  },
+  "Form": {
+    "title": "Zarejestruj się",
+    "title2": "do akcji Kręć dla Hospicjum",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "birthDate": "Data urodzenia",
+    "consent": "Oświadczam, że zapoznałem się z informacją o przetwarzaniu danych osobowych",
+    "terms1": "Akceptuję",
+    "terms2": "Regulamin",
+    "terms3": "",
+    "btn": "Wyślij formularz",
+    "required": "*Pola obowiązkowe",
+    "success": "Dziękujemy za rejestrację i zapraszamy do wzięcia udziału w akcji. Potwierdzenie startu w wiadomości e-mail.",
+    "error1": "coś poszło nie tak!",
+    "error2": "Niestety twoje zgłoszenie nie zostało wysłane. Spróbuje jeszcze raz lub skontaktuj się z nami.",
+    "radioDate": "Wybierz datę wycieczki",
+    "firstNameRequired": "Imię jest wymagane.",
+    "lastNameRequired": "Imię jest wymagane.",
+    "emailRequired": "Adres email jest wymagany.",
+    "tripRequired": "To pole jest wymagane.",
+    "emailCustom": "Adres email jest nieprawidłowy.",
+    "birthDateRequired": "Data urodzenia jest wymagana.",
+    "dayCustom": "Dzień jest niepoprawny.",
+    "monthCustom": "Miesiąc jest niepoprawny.",
+    "yearCustom": "Rok jest niepoprawny.",
+    "consentRequired": "Musisz zaakceptować informacje o przetwarzaniu danych osobowych.",
+    "consent2Required": "Musisz zaakceptować regulamin."
+  }
+}

@@ -1,0 +1,2 @@
+ALTER TABLE "next-krecdlahospicjum_post" ADD COLUMN "number" integer;--> statement-breakpoint
+ALTER TABLE "next-krecdlahospicjum_post" ADD CONSTRAINT "next-krecdlahospicjum_post_number_unique" UNIQUE("number");

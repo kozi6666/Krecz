@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .spacer {
+    @apply mx-auto max-w-[1632px] px-[25px] lg:px-10 xl:px-[96px];
+  }
+}
+
+@layer utilities {
+
+
+  
+}
+
+
+/* Custom Swiper styles */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #019682 !important;
+}
+
+.swiper-pagination-bullet {
+  background: #019682 !important;
+  opacity: 0.5 !important;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1 !important;
+}
+
+/* Thumbnail styles */
+.thumbs-swiper .swiper-slide {
+  opacity: 0.4;
+  transition: opacity 0.3s;
+}
+
+.thumbs-swiper .swiper-slide-thumb-active {
+  opacity: 1;
+  border: 2px solid #019682;
+  border-radius: 0.5rem;
+}
