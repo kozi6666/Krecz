@@ -29,3 +29,6 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 Bazowałem na starym projekcie, nie zmieniałem nic w backu. 
 
 Pozdrawiam, 
+
+---------------------------------------------------------------------------------
+# formularz wyłączony w page tsx commentem

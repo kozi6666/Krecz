@@ -99,12 +99,13 @@ export default function HomePage() {
           </div> 
         </div>
       </section>*/}
+
+      {/* Sekcja formularza maj 2025
      <Section
   id="form"
   background="dark"
   className="relative pb-[78px] pt-10 text-center lg:pt-16 xl:pb-16 xl:pt-[128px]"
 >
-  {/* Tło / ozdoba */}
   <Image
     src={Bike}
     width="1016"
@@ -113,18 +114,16 @@ export default function HomePage() {
     className="absolute left-1/2 top-[60%] w-[calc(100%_-_60px)] max-w-[500px] -translate-x-1/2 -translate-y-1/2 md:top-1/2 md:max-w-[1016px]"
   />
 
-  {/* Treść */}
   <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-light">
     <h1 className="text-xl md:text-2xl xl:text-4xl font-bold leading-tight text-light mb-8">
       {t("Form.title")}
     </h1>
 
-    {/* Formularz */}
     <div className="w-full">
       <Formularz />
     </div>
   </div>
-</Section>
+</Section>*/}
 
       <Faq />
     </>
