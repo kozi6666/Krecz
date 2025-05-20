@@ -92,7 +92,7 @@ export default function Hero() {
     </div>
     <div className="flex items-center rounded-full px-5">
       <CalendarIcon className="text-white mr-1 w-12 h-12" />
-      <span className="text-white font-medium text-sm drop-shadow-lg">13–20.06.2025</span>
+      <span className="text-white font-medium text-sm drop-shadow-lg">22–29.05.2025</span>
     </div>
   </motion.div>
 </motion.div>

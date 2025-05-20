@@ -11,6 +11,7 @@ import Patron3 from "~~/svg/glos koszalin.svg";
 import Patron4 from "~~/svg/RIO_KOSZALIN_LOGO_CLAIM_KOLOR.svg";
 import Patron5 from "~~/svg/TVP3_Szczecin_podst.svg";
 import Patron6 from "~~/svg/TV-MAX-wersja-podstawowa-rgb.svg";
+import Patron7 from "~~/svg/tvpinfo4.svg";
 
 
 
@@ -29,16 +30,18 @@ const Footer = () => {
 
           </div>
 
+<div className="bg-white p-2 pb-5 px-5 rounded-lg items-center justify-center ">
           {/* Logotypy partnerów */}
-          <div className="flex flex-wrap items-center justify-center md:justify-start gap-6 border-t border-white/20 pt-6">
+          <div className="flex flex-wrap items-center justify-center md:justify-start gap-6  pt-6">
             <Patron4 className="h-[50px] w-auto" />
             <Patron5 className="h-[50px] w-auto" />
-            <Patron6 className="relative h-[50px] w-[100px] fill-white " />
+            <Patron6 className="relative h-[50px] w-[100px] fill-black " />
             <Patron3 className="h-[50px] w-auto" />
             <Patron2 className="h-[50px] w-auto" />
             <Patron1 className="h-[50px] w-auto" />
+            <Patron7 className="h-[100px] w-auto " />
 
-
+</div>
           </div>
         </div>
 

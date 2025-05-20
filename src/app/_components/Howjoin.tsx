@@ -60,7 +60,7 @@ export default function Howjoin() {
 
 
           </h2>
-          <p className="mx-auto mt-5 max-w-xl text-center text-base sm:text-lg text-dark/80">
+          <p className="mx-auto mt-5 max-w-xl text-center text-base sm:text-lg text-dark/80 lg:whitespace-nowrap">
             {t("Howjoin.content1")}
           </p>
 
